@@ -14,4 +14,10 @@ Occupancy Rates: Occupancy rates by inpatient and ICU beds over time.
 Admission: Admission counts for COVID-19, Influenza, and RSV.
 Patient-level: Demographic data of admitted patients (age)
 
+Key Insights:
+
+
 ![image](https://github.com/user-attachments/assets/107ff94e-31fc-4442-b839-d0e42cab70e7)
+![image](https://github.com/user-attachments/assets/85f094a3-7dca-4d93-87db-bff272bfe4c2)
+![image](https://github.com/user-attachments/assets/2a1c73d1-eacf-45a0-8fee-2cc61a40c9c6)
+
