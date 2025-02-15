@@ -13,3 +13,5 @@ Key Metrics (KPI'S):
 Occupancy Rates: Occupancy rates by inpatient and ICU beds over time.
 Admission: Admission counts for COVID-19, Influenza, and RSV.
 Patient-level: Demographic data of admitted patients (age)
+
+![image](https://github.com/user-attachments/assets/107ff94e-31fc-4442-b839-d0e42cab70e7)
