@@ -19,5 +19,5 @@ Key Insights:
 
 <img src="https://github.com/user-attachments/assets/107ff94e-31fc-4442-b839-d0e42cab70e7" width="600" />
 <img src="https://github.com/user-attachments/assets/85f094a3-7dca-4d93-87db-bff272bfe4c2" width="600" />
-<img src="https://github.com/user-attachments/assets/2a1c73d1-eacf-45a0-8fee-2cc61a40c9c6" width="300" />
+<img src="https://github.com/user-attachments/assets/2a1c73d1-eacf-45a0-8fee-2cc61a40c9c6" width="600" />
 
